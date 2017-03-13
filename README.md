@@ -1,12 +1,11 @@
 # CentOS 7 Docker PostgreSQL Jenkins 
 
-This repository contains a Dockerfile to build a Docker Image for Jenkins, PostgreSQL on CentOS 7
-
+This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgresql
 [![Build Status](https://travis-ci.org/zokeber/docker-postgresql.svg?branch=master)](https://travis-ci.org/zokeber/docker-postgresql)
 
 ## Base Docker Image
 
-* [zokeber/centos](https://registry.hub.docker.com/u/zokeber/centos/)
+* [centos](https://registry.hub.docker.com/u/user_name/centos/)
 
 ## Usage
 
@@ -17,17 +16,16 @@ This repository contains a Dockerfile to build a Docker Image for Jenkins, Postg
 2. You can download automated build from public Docker Hub Registry:
 
 ``` docker pull zokeber/postgresql:latest ```
-******************************************************************************************************
 
-
-
-
-# docker-centos7-postgresql-jenkins
-This is docker image that builds jenkin imag on ubuntu/centos7 with "jdk8", &amp; Postgresql
 #### Introduction
-#### This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
-#### Build
-#### docker build -t am255098/jenkins:latest .
-#### for jenkins latest means latest version and you don't have to specify a version # 
-#### Run 
+
+# This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
+
+##### Build
+
+###### docker build -t am255098/jenkins:latest .
+
+####### for jenkins latest means latest version and you don't have to specify a version # 
+
+######## Run 
 
