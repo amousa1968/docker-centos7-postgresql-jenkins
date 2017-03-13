@@ -19,7 +19,7 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 #### Introduction
 
-# This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
+#### This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
 
 ##### Build
 
