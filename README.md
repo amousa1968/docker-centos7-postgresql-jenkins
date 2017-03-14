@@ -19,11 +19,18 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 ``` docker pull zokeber/postgresql:latest ```
 
+
 ## Build
+1. Test
+2. Test
+
 
 # docker build -t am255098/jenkins:latest .
+1. Test
+2. Test
 
 ## for jenkins latest means latest version and you don't have to specify a version # 
 
 ## Run 
-
+1. Test
+2. Test
