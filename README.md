@@ -27,5 +27,5 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 ####### for jenkins latest means latest version and you don't have to specify a version # 
 
-######## Run 
+####### Run 
 
