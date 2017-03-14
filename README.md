@@ -7,7 +7,7 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 * [centos](https://registry.hub.docker.com/u/user_name/centos/)
 
-## Usage
+### Usage
 
 ### Installation
 
@@ -19,13 +19,13 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 #### Introduction
 
-#### This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
+##### This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
 
-##### Build
+###### Build
 
-###### docker build -t am255098/jenkins:latest .
+####### docker build -t am255098/jenkins:latest .
 
-####### for jenkins latest means latest version and you don't have to specify a version # 
+######## for jenkins latest means latest version and you don't have to specify a version # 
 
-####### Run 
+######### Run 
 
