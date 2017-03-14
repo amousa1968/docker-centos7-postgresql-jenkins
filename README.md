@@ -1,6 +1,8 @@
 # CentOS 7 Docker PostgreSQL Jenkins 
 
+### Introduction
 This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgresql
+
 [![Build Status](https://travis-ci.org/zokeber/docker-postgresql.svg?branch=master)](https://travis-ci.org/zokeber/docker-postgresql)
 
 ## Base Docker Image
@@ -17,15 +19,11 @@ This is docker image builds jenkin image on Centos 7 with "jdk8", &amp; Postgres
 
 ``` docker pull zokeber/postgresql:latest ```
 
-#### Introduction
+## Build
 
-##### This is docker image that builds jenkin imag on ubuntu with "jdk8" and maven 3.3.9
+# docker build -t am255098/jenkins:latest .
 
-###### Build
+## for jenkins latest means latest version and you don't have to specify a version # 
 
-####### docker build -t am255098/jenkins:latest .
-
-######## for jenkins latest means latest version and you don't have to specify a version # 
-
-######### Run 
+## Run 
 
